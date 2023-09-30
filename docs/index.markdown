@@ -6,7 +6,9 @@ layout: default
 
 # Pinball Game - Caleb Wiebolt
 
-Below is the writeup for my pinball game. It was created in Unity for my Animation and Planning in Games class. All the graded features that I attempeted can be found below
+Below is the writeup for my pinball game. It was created in Unity for my Animation and Planning in Games class. All the graded features that I attempeted can be found below. To look at the source code or a pre built executable click the button below. 
+
+<a href="{{ site.github.repository_url }}" class="btn btn-dark">Go to the Code</a>
 
 
 
