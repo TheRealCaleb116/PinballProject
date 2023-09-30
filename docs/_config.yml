@@ -20,9 +20,7 @@
 
 title: Pinball Game - Caleb Wiebolt
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A project written in Unity for my Animation and Planing in Games class HW1.
 baseurl: "/PinballProject" # the subpath of your site, e.g. /blog
 url: "https://therealcaleb116.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
